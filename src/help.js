@@ -70,7 +70,7 @@ const help = (prefix) => {
 ├◪ ${prefix}clearall
 ├◪ ${prefix}clone
 │
-└──「 *FDL BOT* 」
+└──「 *Isaac Bot* 」
 `
 }
 
