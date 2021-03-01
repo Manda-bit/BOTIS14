@@ -3,9 +3,8 @@ const help = (prefix) => {
 │
 ├「 OWNER STATUS 」
 │
-├◪ *NAME: FDL*
-├◪ *WA: 628990542731*
-├◪ *YT: FDL GANZ*
+├◪ *NAME: Isaac*
+├◪ *WA: 6288271932175*
 │
 ├──「 *TENTANG BOT* 」
 │
